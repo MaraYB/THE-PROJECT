@@ -5,15 +5,14 @@ http://github.com/username/nameproject
 ***Installation d'un log pour BDD sur github ?*****
 collabnet. Giteye ? (NO)/ Tortoise GIT (oui) ou faire des lignes de commandes 'on a le choix'
  
-
-steps***
+steps***Useful or not
 0.gitdone http://github.com/username/nameproject *
 1. git add nomfichieraajouter * ajouter les fichiers
 2.git commit -m ""* ajouter message (commit permet de mettre a jour ou de submit)
 3.git push 
 4.git pull * recuperer les changements effectués
 
-PRojet :
+Projet:
        duo au -6 pages (web) important :La foncionnalité ?
        1* il doit y avoir une BDD relationnelle +PHP (msqlite)+ css
        2* 3 fonctionnalités :
@@ -25,3 +24,4 @@ PRojet :
       4*Objectif de la BDD (petit resumé expliquant le but du projet (ce serait bien de faire quelque chose de concret )
       5* captures d'écran(fonctionnalités) dans le rapport (possibilité)
       6*Diagramme (sitemap ou silo) 
+pour le zip  (nommer Prenom-Nom-web17-L3.zip)
