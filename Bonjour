@@ -1,0 +1,14 @@
+pour acceder de l'exterieur
+avec username , nameproject
+http://github.com/username/nameproject
+
+***Installation d'un log pour BDD sur github ?*****
+collabnet. Giteye ? (NO)/ Tortoise GIT (oui) ou faire des lignes de commandes 'on a le choix'
+ 
+
+steps***
+0.gitdone http://github.com/username/nameproject *
+1. git add nomfichieraajouter * ajouter les fichiers
+2.git commit -m ""* ajouter message (commit permet de mettre a jour ou de submit)
+3.git push 
+4.git pull * recuperer les changements effectués
