@@ -12,3 +12,16 @@ steps***
 2.git commit -m ""* ajouter message (commit permet de mettre a jour ou de submit)
 3.git push 
 4.git pull * recuperer les changements effectués
+
+PRojet :
+       duo au -6 pages (web) important :La foncionnalité ?
+       1* il doit y avoir une BDD relationnelle +PHP (msqlite)+ css
+       2* 3 fonctionnalités :
+                           -SELECT (à partir formulaire(POST OU GET) qui parametrise les requetes) comme dans perdu trouvé
+                           -INSERT à partir d'un formulaire
+                           -DELETE/UPDAT
+                 On peut voir la participation sur github(Bonne distrib du taff)
+      3*Rapport PDf(inclut adresse du rep du projekt+ qui a fait quoi+ noms)
+      4*Objectif de la BDD (petit resumé expliquant le but du projet (ce serait bien de faire quelque chose de concret )
+      5* captures d'écran(fonctionnalités) dans le rapport (possibilité)
+      
